@@ -1,0 +1,3 @@
+I'll create a clean, accessible Tetris game with responsive UI that emphasizes playability and visual clarity. Here's a structured approach: build the game logic in vanilla JavaScript, design a minimal interface with clear game state feedback, and include keyboard controls with ARIA labels for accessibility—then initialize a GitHub repo with proper documentation and a live demo link.
+
+Would you like me to start with the HTML/CSS scaffold and core game mechanics, or would you prefer I focus on a specific component like the grid rendering or collision detection first?
